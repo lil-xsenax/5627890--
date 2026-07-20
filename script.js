@@ -657,3 +657,4 @@ function createBackgroundHeart(){
 
 
 setInterval(createBackgroundHeart,700);
+alert("script работает");
